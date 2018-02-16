@@ -1,0 +1,11 @@
+D:\Projects\C#\Project Menta\Project Menta\bin\Debug\Project Menta.exe.config
+D:\Projects\C#\Project Menta\Project Menta\bin\Debug\Project Menta.exe
+D:\Projects\C#\Project Menta\Project Menta\bin\Debug\Project Menta.pdb
+D:\Projects\C#\Project Menta\Project Menta\obj\Debug\Project Menta.csprojResolveAssemblyReference.cache
+D:\Projects\C#\Project Menta\Project Menta\obj\Debug\Project_Menta.Form1.resources
+D:\Projects\C#\Project Menta\Project Menta\obj\Debug\Project_Menta.Properties.Resources.resources
+D:\Projects\C#\Project Menta\Project Menta\obj\Debug\Project Menta.csproj.GenerateResource.Cache
+D:\Projects\C#\Project Menta\Project Menta\obj\Debug\Project Menta.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Project Menta\Project Menta\obj\Debug\Project Menta.exe
+D:\Projects\C#\Project Menta\Project Menta\obj\Debug\Project Menta.pdb
+D:\Projects\C#\Project Menta\Project Menta\bin\Debug\Bunifu_UI_v1.52.dll
